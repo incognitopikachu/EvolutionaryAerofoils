@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 @dataclass
 class Aerofoil:
     """
-    todo
+    Class encapsulating an aerofoil. Stores coordinates and methods to alter them.
     """
     name: str
     airfoil: np.ndarray
