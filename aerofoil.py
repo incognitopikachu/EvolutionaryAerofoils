@@ -9,6 +9,9 @@ import matplotlib.pyplot as plt
 
 @dataclass
 class Aerofoil:
+    """
+    todo
+    """
     name: str
     airfoil: np.ndarray
     polar_array: np.asanyarray = None
