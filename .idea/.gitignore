@@ -1,5 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/xfoil_temp/**
-/aerofoil_data/**
+**/xfoil_temp
+**/aerofoil_data
+*.pyc
